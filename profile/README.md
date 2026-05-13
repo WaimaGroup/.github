@@ -4,7 +4,7 @@
 
 **Boutique tech. Real-world impact.**
 
-We are an international group of specialized technology startups working at the intersection of AI agents, API governance, cloud infrastructure, and digital products. We build focused tools and services — no bloat, no black boxes — for teams that need things to actually work.
+We are an international group of specialized in AI and digital products. We build focused tools and services — no bloat, no black boxes — for teams that need things to actually work.
 
 🌐 [waimagroup.com](https://waimagroup.com) · 💼 [LinkedIn](https://www.linkedin.com/company/105077364)
 
@@ -12,7 +12,7 @@ We are an international group of specialized technology startups working at the 
 
 ## What we build
 
-Waima Group operates across several complementary disciplines: AI agent frameworks, API lifecycle and governance, cloud and DevOps consulting, IoT platforms, cybersecurity, and data services. The repositories in this organization reflect active products and internal tools built by our teams.
+Waima  operates across several complementary disciplines: AI agent frameworks, API lifecycle and governance, cloud and DevOps consulting, IoT platforms, cybersecurity, and data services. The repositories in this organization reflect active products and internal tools built by our teams.
 
 ---
 
@@ -24,7 +24,7 @@ A framework for designing, deploying, and orchestrating autonomous AI agents in 
 ---
 
 ### 📦 [ypm](https://github.com/waimagroup/ypm)
-A lightweight project and dependency management utility tailored to the way Waima teams work. Cuts the overhead of scaffolding and configuration so engineers spend less time wiring things up and more time shipping.
+A lightweight project and dependency management utility tailored to the way Waima teams work. Cuts the overhead of scaffolding and configuration so engineers spend less time wiring things up and more time shipping. A project manager focus in combine human with agents.
 
 ---
 
