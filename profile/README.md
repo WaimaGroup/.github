@@ -1,3 +1,5 @@
+![](https://waima-web.s3.eu-west-1.amazonaws.com/waimagroup.com/uploads/2020/11/23074926/waima.webp)
+
 # Waima Group
 
 **Boutique tech. Real-world impact.**
